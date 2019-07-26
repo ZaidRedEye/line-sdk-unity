@@ -334,4 +334,15 @@ Assets/StreamingAssets/crashlytics-build.properties
 
 /.bundle
 
+### Rider
+LINE_SDK_Unity/Assets/Plugins/Editor/JetBrains/
+LINE_SDK_Unity/Assets/Plugins/Editor/JetBrains.meta
+LINE_SDK_Unity/.idea/
+LINE_SDK_Unity/.idea/.idea.LINE_SDK_Unity/.idea/
+
 # End of https://www.gitignore.io/api/xcode,swift,macos,ios,android,unity,Intellij
+
+
+
+
+
